@@ -21,7 +21,6 @@ They install from a git tag (`dist/` is committed), not from the npm registry.
 | [`@devkartcom/capacitor-tcp-print`](https://github.com/devkartcom/capacitor-tcp-print) | Raw TCP (port 9100) printing to network printers, with LAN discovery |
 | [`@devkartcom/capacitor-usb-print`](https://github.com/devkartcom/capacitor-usb-print) | Raw ESC/POS printing to USB receipt printers on Android |
 | [`@devkartcom/capacitor-thermal-printer`](https://github.com/devkartcom/capacitor-thermal-printer) | Bluetooth thermal printers, with Swift Package Manager support; a maintained fork of [Malik12tree/capacitor-thermal-printer](https://github.com/Malik12tree/capacitor-thermal-printer) |
-| [`background-geolocation`](https://github.com/devkartcom/background-geolocation) | Background location updates for driver apps: our Capacitor 8 build of [capacitor-community/background-geolocation](https://github.com/capacitor-community/background-geolocation), kept until the official 1.3.1 release replaces it |
 
 ```sh
 npm i github:devkartcom/capacitor-usb-print#v0.1.2
