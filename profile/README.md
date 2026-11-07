@@ -30,7 +30,7 @@ npx cap sync
 
 ## Contact
 
-[devkart.com](https://devkart.com) · contact@devkart.com ·
+[devkart.com](https://devkart.com) · [Contact us](https://devkart.com/contact) ·
 [LinkedIn](https://www.linkedin.com/company/devkart-tech) ·
 [X](https://x.com/devkart_tech) ·
 [YouTube](https://www.youtube.com/@Devkartcom)
