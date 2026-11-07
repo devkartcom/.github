@@ -17,8 +17,8 @@ They install from a git tag (`dist/` is committed), not from the npm registry.
 
 | Package | What it does |
 |---|---|
-| [`@devkartcom/capacitor-star-printer`](https://github.com/devsaranweb/capacitor-star-printer) | Star Micronics printers over Bluetooth, USB and LAN, via the official StarXpand SDK |
-| [`@devkartcom/capacitor-tcp-print`](https://github.com/devsaranweb/capacitor-tcp-print) | Raw TCP (port 9100) printing to network printers, with LAN discovery |
+| [`@devkartcom/capacitor-star-printer`](https://github.com/devkartcom/capacitor-star-printer) | Star Micronics printers over Bluetooth, USB and LAN, via the official StarXpand SDK |
+| [`@devkartcom/capacitor-tcp-print`](https://github.com/devkartcom/capacitor-tcp-print) | Raw TCP (port 9100) printing to network printers, with LAN discovery |
 | [`@devkartcom/capacitor-usb-print`](https://github.com/devkartcom/capacitor-usb-print) | Raw ESC/POS printing to USB receipt printers on Android |
 | [`@devkartcom/capacitor-thermal-printer`](https://github.com/devkartcom/capacitor-thermal-printer) | Bluetooth thermal printers, with Swift Package Manager support; a maintained fork of [Malik12tree/capacitor-thermal-printer](https://github.com/Malik12tree/capacitor-thermal-printer) |
 
